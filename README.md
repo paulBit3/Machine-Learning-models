@@ -24,6 +24,9 @@ In these projects, I built Machine Learning models from scratch using Python and
 Paul Brou  - 📫 Reach me at: paultechnologie@gmail.com
 
 --------
+<img width="1336" height="985" alt="Screenshot_Reg_model_2025-12-04 230942" src="https://github.com/user-attachments/assets/129c66b2-814c-4db2-8bcf-bbaf413a13c7" />
+<img width="1341" height="731" alt="Screenshot_Reg_model_2025-12-04 231130" src="https://github.com/user-attachments/assets/1036b836-d014-44be-9531-777b98442131" />
+
 <img width="1370" height="453" alt="MachineLearning_scalling_feature_2025-11-26 225514" src="https://github.com/user-attachments/assets/38b59b13-2c3c-4290-a9f2-9e249ae0c215" />
 <img width="1389" height="946" alt="Machine_Learning1_2025-11-26 201628" src="https://github.com/user-attachments/assets/bd62defd-00e2-45ef-aca4-547f878caa18" />
 <img width="1377" height="697" alt="MachineLearning6_2025-11-26 223655" src="https://github.com/user-attachments/assets/93f0a8e9-1259-495c-898f-c696ced3da09" />
